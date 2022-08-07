@@ -1,0 +1,23 @@
+.iframe{
+    width: 60rem;
+    height: 35rem;;
+}
+
+@media (max-width: 768px){
+  .modal-title{
+    font-size: 18px;
+  }
+
+  .row{
+    flex-direction: column;
+    
+  }
+
+  .col{
+    flex-basis: auto;
+  }
+
+  .modal-footer{
+    justify-content: center;
+  }
+}
