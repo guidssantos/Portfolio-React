@@ -11,6 +11,20 @@ const GlobalStyle = createGlobalStyle`
         color: white;
         font: 14px 'Quicksand', sans-serif;
     }
+
+    body::-webkit-scrollbar {
+        width: 12px;              
+      }
+      
+      body::-webkit-scrollbar-track {
+        background: #001342;        
+      }
+      
+      body::-webkit-scrollbar-thumb {
+        background-color: #4B56A7;   
+        border-radius:10px;   
+        
+      }
     
     &:focus{
         outline: 0;
