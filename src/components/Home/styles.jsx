@@ -39,6 +39,11 @@ export const Perfil = styled.div`
                 text-align:center;
             }
     }   
+        @media (max-width: 425px) {
+            h2{
+                font-size: 26px;
+            }
+        }
 `
 
 export const PerfilImage = styled.div`
@@ -113,4 +118,9 @@ export const ButtonHome = styled.button`
                     height: 1.2em;
                     margin-right: 0.5em;
                 }
+    
+    a{
+        color: ghostwhite;
+        text-decoration: none;
+    }
 `
