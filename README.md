@@ -1,5 +1,5 @@
 
-# Portfólio Guilherme Santos
+# :computer: Portfólio Guilherme Santos
 
 O site é composto por cinco seções:
 
@@ -8,7 +8,7 @@ O site é composto por cinco seções:
 * Habilidades: Já nessa apresento meus conhecimentos em algumas linguagens focadas no front-end.
 * Projetos: É onde fica localizada todos meus projetos realizados, com um modal que mostra uma descrição e video e te dá a opção de ir para o repositorio ou acessar o projeto.
 * Contatos: Seção onde fica meu e-mail, telefone, linkedin e github.
-## Stack utilizada
+##  👨‍💻 Stack utilizada
 
 Para o desenvolvimento do site utilizei:
 * ReactJs
