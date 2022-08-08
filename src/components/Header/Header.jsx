@@ -25,7 +25,7 @@ export default function Header({ toggle }){
                         <AnimBorder className='nav-link' href='#skills'> Habilidades </AnimBorder>
                     </li>
                     <li>
-                        <AnimBorder className='nav-link' href='#projects'>  Portfólio </AnimBorder>
+                        <AnimBorder className='nav-link' href='#projects'>  Projetos </AnimBorder>
                     </li>
                     <li>
                         <AnimBorder className='nav-link' href='#contact'> Contato </AnimBorder>

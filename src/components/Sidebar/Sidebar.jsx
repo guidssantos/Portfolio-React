@@ -16,7 +16,7 @@ const Sidebar = ({ isOpen, toggle }) => {
                     Habilidades
                 </SidebarLink>
                 <SidebarLink onClick={toggle} href='#projects'>
-                    Portfólio
+                    Projetos
                 </SidebarLink>
                 <SidebarLink onClick={toggle} href='#contact'>
                     Contato
